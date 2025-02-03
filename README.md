@@ -31,4 +31,4 @@ This project is an SQL-based case study where I solve various queries related to
 
 ---
 
-This project demonstrates my **SQL expertise in analyzing business sales data**, providing valuable insights into pizza sales trends, revenue, and customer preferences. If you have any suggestions or want to see specific queries, let me know! 🍕🚀# SQL-Projects
+This project demonstrates my **SQL expertise in analyzing business sales data**, providing valuable insights into pizza sales trends, revenue, and customer preferences.🍕🚀# SQL-Projects
