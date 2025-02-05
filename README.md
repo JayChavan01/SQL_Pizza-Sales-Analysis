@@ -1,4 +1,4 @@
-# **Pizza Sales Analysis**  
+# **Pizza Sales Analysis** 
 
 ### **Overview:**  
 This project is an SQL-based case study where I solve various queries related to a **Pizza Sales database** using **MySQL**. The objective is to extract key insights about orders, revenue, pizza types, and sales trends. This project strictly focuses on SQL queries—no Excel or Power BI was used.  
